@@ -1,0 +1,11 @@
+
+.tabled>div {
+    display: flex;
+}
+.field-id {width: 30px}
+.field-name {width: 260px}
+.field-sku {width: 100px}
+.field-price {width: 60px}
+.button {}
+
+.field-title {width: 60px}
